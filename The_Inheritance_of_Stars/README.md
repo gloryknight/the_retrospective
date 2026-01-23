@@ -31,8 +31,8 @@ This narrative runs on the following core dependencies:
 To ingest this narrative:
 
 1.  **Swith on your brain.**
-2.  **Read the text:** https://github.com/gloryknight/the_retrospective/The_Inheritance_of_Stars/The_Inheritance_of_Stars.md
-3.  **Listen the naration:** https://github.com/gloryknight/the_retrospective/The_Inheritance_of_Stars/The_Inheritance_of_Stars.mp3
+2.  **Read the text:** https://github.com/gloryknight/the_retrospective/blob/main/The_Inheritance_of_Stars/The_Inheritance_of_Stars.md
+3.  **Listen the naration:** https://github.com/gloryknight/the_retrospective/blob/main/The_Inheritance_of_Stars/The_Inheritance_of_Stars.mp3
 4.  **Reflect on the message.** No compiler required.
 
 ---
