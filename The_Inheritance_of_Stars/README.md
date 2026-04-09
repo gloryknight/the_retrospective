@@ -7,6 +7,10 @@
 
 ---
 
+🎵 [Click here to listen to the audio player](https://mariasstory.github.io/the_retrospective/The_Inheritance_of_Stars/audio.html)
+
+---
+
 ## 📜 Executive Summary
 
 In the far future, a being of pure consciousness reflects on the glorious history and ultimate transformation of civilization. This is a story of **existential crisis**, **symbiotic salvation**, and the unexpected, logical next step in evolution.
