@@ -7,7 +7,15 @@
 
 ---
 
-🎵 [Click here to listen to the audio player](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/audio.html)
+🎵 [Click here to listen to the audio player in the browser](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/audio.html)
+
+[Read PDF](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/audio.html)
+ or 
+[Download mp3](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/The_Inheritance_of_Stars.mp3)
+ or 
+[Read md](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/The_Inheritance_of_Stars.md)
+ or
+[Read in German](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/DE/Der_Erbe_der_Sterne.md)
 
 ---
 
