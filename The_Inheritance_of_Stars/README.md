@@ -9,7 +9,7 @@
 
 🎵 [Click here to listen to the audio player in the browser](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/audio.html)
 
-[Read PDF](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/audio.html)
+[Read PDF](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/The_Inheritance_of_Stars.pdf)
  or 
 [Download mp3](https://gloryknight.github.io/the_retrospective/The_Inheritance_of_Stars/The_Inheritance_of_Stars.mp3)
  or 
